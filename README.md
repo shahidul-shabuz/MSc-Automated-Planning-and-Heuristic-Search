@@ -7,7 +7,7 @@ Step-by-step solutions to the problem set for **CSE 6109: Automated Planning and
 | **Course** | CSE 6109: Automated Planning and Heuristic Search — M.Sc. in CSE, Dhaka University of Engineering & Technology (DUET) |
 | **Semester** | 2nd semester |
 | **Course teacher** | [Dr. Sabah Binte Noor](https://profile.duet.ac.bd/u/sabah), Associate Professor, Department of Computer Science and Engineering, DUET |
-| **Grade** | Result pending (expected 4 November 2026) |
+| **Grade** | A+ (above 90% marks; GPA 4.00 / 4.00) |
 
 ## Contents
 
